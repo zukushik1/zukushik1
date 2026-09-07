@@ -1,59 +1,123 @@
-# 👋 Hi, I'm Jericho!
+<h1 align="center">👋 Hi, I'm Jericho Selectra Vavian</h1>
 
-### 💻 Frontend Developer | Student | Tech Enthusiast
+<p align="center">
+  💻 Web Development Enthusiast &nbsp;•&nbsp;
+  🎨 UI/UX Design &nbsp;•&nbsp;
+  🚀 Always Learning
+</p>
 
-I'm a student who enjoys building websites and learning new technologies.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=Jericho%20Selectra%20Vavian&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-- 🔭 Currently working on **Jericho & Nesya** — a bakery web project
-- 🌱 Currently learning **Vue.js, JavaScript, CSS & Golang**
-- 💻 Interested in **Web Development & UI/UX**
-- 🚀 Always learning and building something new
+---
+
+## 🙋 About Me
+
+💻 Web development enthusiast & beginner programmer.  
+🎨 Interested in web development and UI/UX design.  
+🚀 Always learning, building, and improving.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,git,github,golang" />
+### 💻 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,nodejs" />
+</p>
+
+### 🐍 Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🎨 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🌱 Currently Learning
 
-### 🍰 Jericho & Nesya
-A modern bakery website built with Vue.js.
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
 
-**Tech:** Vue.js • Vite • CSS • Golang
+**C++ — Beginner**
+
+---
+
+## 🍰 Featured Project
+
+### Jericho & Nesya — Bakery Website
+
+A bakery website project designed and developed with a focus on a clean interface, responsive design, and an admin dashboard.
+
+**My focus:**
+- 🎨 UI/UX & website design
+- 💻 Frontend development
+- 📱 Responsive layout
+- 🧭 Page navigation with Vue Router
+- ⚡ Vue.js & Vite development
+
+**Tech used:**
+
+`HTML` `CSS` `JavaScript` `Vue.js` `Vue Router` `Vite` `Node.js`
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" height="170" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📈 GitHub Activity
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=zukushik1&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zukushik1&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/zukushik1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+
+<a href="https://github.com/zukushik1">
+  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-### ⚡ Fun Fact
+## 🐍 Contribution Snake
 
-> I learn by building things. 🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zukushik1/zukushik1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Keep learning. Keep building. Keep improving. ✨</i>
+</p>
+
+<p align="center">
+  💜 Thanks for visiting my profile!
+</p>
