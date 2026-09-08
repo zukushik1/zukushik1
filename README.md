@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-111827?style=flat-square&logo=canva&logoColor=white" />
 </p>
-```
-
 ---
 
 ## About Me
