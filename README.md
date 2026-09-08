@@ -165,7 +165,7 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
     alt="Public Repositories"
   />
 </p>
-```
+
 ---
 
 ## Development Environment
