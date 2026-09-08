@@ -1,46 +1,40 @@
-<h1 align="center">👋 Hi, I'm Jericho Selectra Vavian</h1>
-
 <p align="center">
-  💻 Web Development Enthusiast &nbsp;•&nbsp;
-  🎨 UI/UX Design &nbsp;•&nbsp;
-  🚀 Always Learning
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=180&section=header&text=Jericho%20Selectra%20Vavian&fontSize=35&fontColor=000000&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=220&section=header&text=Jericho%20Selectra%20Vavian&fontSize=38&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=58&descSize=20&descColor=000000" />
 </p>
 
 ---
 
-## 🙋 About Me
+## Profile
 
-💻 Web development enthusiast & beginner programmer.  
-🎨 Interested in web development and UI/UX design.  
-🚀 Always learning, building, and improving.
+I'm Jericho Selectra Vavian, a frontend developer and beginner programmer interested in building modern and responsive websites.
+
+I mainly work with HTML, CSS, JavaScript, and Vue.js, while exploring UI/UX design through Figma and Canva.
+
+I'm continuously improving my programming skills and currently learning C++.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Skills
 
-### 💻 Web Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,nodejs" />
 </p>
 
-### 🐍 Programming
+### Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### 🎨 Design
+### UI/UX Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -48,7 +42,50 @@
 
 ---
 
-## 🌱 Currently Learning
+## Tech Stack
+
+| Category          | Technologies                  |
+| ----------------- | ----------------------------- |
+| Frontend          | HTML, CSS, JavaScript, Vue.js |
+| Framework / Tools | Vue Router, Vite, Node.js     |
+| Programming       | Python                        |
+| Design            | Figma, Canva                  |
+| Development Tools | Git, GitHub, VS Code          |
+
+---
+
+## Featured Project
+
+### Jericho & Nesya — Bakery Website
+
+A bakery website project focused on creating a clean, responsive, and user-friendly web experience.
+
+**My focus:**
+
+* Frontend development
+* UI/UX implementation
+* Responsive web design
+* Vue.js development
+* Vue Router navigation
+* Admin dashboard interface
+* Git & GitHub workflow
+
+**Tech used:**
+
+`HTML` `CSS` `JavaScript` `Vue.js` `Vue Router` `Vite` `Node.js`
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=000000&bg_color=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&hide_border=true&title_color=8B5CF6&text_color=000000&bg_color=FFFFFF" height="170" />
+</p>
+
+---
+
+## Currently Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -58,55 +95,17 @@
 
 ---
 
-## 🍰 Featured Project
+## Connect With Me
 
-### Jericho & Nesya — Bakery Website
-
-A bakery website project designed and developed with a focus on a clean interface, responsive design, and an admin dashboard.
-
-**My focus:**
-- 🎨 UI/UX & website design
-- 💻 Frontend development
-- 📱 Responsive layout
-- 🧭 Page navigation with Vue Router
-- ⚡ Vue.js & Vite development
-
-**Tech used:**
-
-`HTML` `CSS` `JavaScript` `Vue.js` `Vue Router` `Vite` `Node.js`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" height="170" />
+<p>
+  <a href="https://github.com/zukushik1">
+    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zukushik1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/zukushik1">
-  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zukushik1/zukushik1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
@@ -115,9 +114,5 @@ A bakery website project designed and developed with a focus on a clean interfac
 ---
 
 <p align="center">
-  <i>✨ Keep learning. Keep building. Keep improving. ✨</i>
-</p>
-
-<p align="center">
-  💜 Thanks for visiting my profile!
+  Always learning, building, and improving.
 </p>
