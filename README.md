@@ -126,19 +126,21 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zukushik1&theme=default"
-    alt="GitHub Profile Summary"
+    src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151&icon_color=6B7280"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151"
+    height="180"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zukushik1&theme=default"
-    alt="Languages by Repository"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zukushik1&theme=default"
-    alt="Languages by Commit"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zukushik1&theme=default"
+    alt="GitHub Profile Summary"
   />
 </p>
 
@@ -151,28 +153,19 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151&icon_color=6B7280"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/github/followers/zukushik1?style=social"
+    src="https://img.shields.io/github/followers/zukushik1?style=flat-square&label=Followers&color=111827"
     alt="GitHub Followers"
   />
   <img
-    src="https://img.shields.io/github/stars/zukushik1?style=social"
+    src="https://img.shields.io/github/stars/zukushik1?style=flat-square&label=Stars&color=111827"
     alt="GitHub Stars"
   />
+  <img
+    src="https://img.shields.io/github/repos/zukushik1?style=flat-square&label=Public%20Repos&color=111827"
+    alt="Public Repositories"
+  />
 </p>
-
+```
 ---
 
 ## Development Environment
