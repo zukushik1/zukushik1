@@ -126,7 +126,7 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151&icon_color=6B7280"
+    src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151"
     height="180"
     alt="GitHub Stats"
   />
@@ -139,29 +139,22 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zukushik1&theme=default"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zukushik1&theme=default&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zukushik1&hide_border=true&background=FFFFFF&ring=111827&fire=111827&currStreakLabel=111827&sideLabels=111827&currStreakNum=111827&sideNums=111827&dates=6B7280"
     alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/followers/zukushik1?style=flat-square&label=Followers&color=111827"
+    src="https://img.shields.io/github/followers/zukushik1?style=flat-square&label=Followers&color=111827&labelColor=111827"
     alt="GitHub Followers"
   />
   <img
-    src="https://img.shields.io/github/stars/zukushik1?style=flat-square&label=Stars&color=111827"
+    src="https://img.shields.io/github/stars/zukushik1?style=flat-square&label=Stars&color=111827&labelColor=111827"
     alt="GitHub Stars"
   />
   <img
-    src="https://img.shields.io/github/repos/zukushik1?style=flat-square&label=Public%20Repos&color=111827"
+    src="https://img.shields.io/github/repos/zukushik1?style=flat-square&label=Public%20Repos&color=111827&labelColor=111827"
     alt="Public Repositories"
   />
 </p>
@@ -184,9 +177,19 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 <p align="center">
   <a href="https://github.com/zukushik1">
-    <img
-      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.tiktok.com/@shikiaja_">
+    <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/jrchslvvn/">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/@zukushiki_">
+    <img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -206,4 +209,3 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 <p align="center">
   <strong>Always learning, building, and improving.</strong>
 </p>
-```
