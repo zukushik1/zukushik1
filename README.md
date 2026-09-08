@@ -140,10 +140,6 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
     src="https://img.shields.io/github/stars/zukushik1?style=flat-square&label=Stars&color=111827&labelColor=111827"
     alt="GitHub Stars"
   />
-  <img
-    src="https://img.shields.io/github/repos/zukushik1?style=flat-square&label=Public%20Repos&color=111827&labelColor=111827"
-    alt="Public Repositories"
-  />
 </p>
 
 ---
