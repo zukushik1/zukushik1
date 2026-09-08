@@ -92,7 +92,7 @@ I'm continuously improving my skills through projects, experimentation, and coll
 
 ## Featured Project
 
-### JeSya — Bakery Website
+### Jesya — Bakery Website
 
 A bakery website project focused on clean interfaces, responsive layouts, and a simple user experience.
 
