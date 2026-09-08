@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=180&section=header&text=Jericho%20Selectra%20Vavian&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fffff&height=180&section=header&text=Jericho%20Selectra%20Vavian&fontSize=35&fontColor=00000&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
