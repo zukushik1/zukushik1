@@ -195,18 +195,6 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=zukushik1&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
----
-
 <p align="center">
   <strong>Always learning, building, and improving.</strong>
 </p>
