@@ -195,14 +195,17 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 ---
 
-## Contribution Snake
+GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/zukushik1/zukushik1/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151&icon_color=6B7280" height="180" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151" height="180" alt="Top Languages" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zukushik1&hide_border=true&background=FFFFFF&ring=111827&fire=111827&currStreakLabel=111827&sideLabels=111827&currStreakNum=111827&sideNums=111827&dates=6B7280" height="180" alt="GitHub Contribution Streak" /> </p>
+
+Contribution Activity
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zukushik1&bg_color=FFFFFF&color=111827&line=6B7280&point=111827&area=true&hide_border=true" alt="GitHub Contribution Activity Graph" /> </p>
+
+<p align="center"> <img src="https://img.shields.io/github/followers/zukushik1?style=flat-square&label=Followers&color=111827&labelColor=111827" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/zukushik1?style=flat-square&label=Stars&color=111827&labelColor=111827" alt="GitHub Stars" /> <img src="https://img.shields.io/github/repos/zukushik1?style=flat-square&label=Public%20Repos&color=111827&labelColor=111827" alt="Public Repositories" /> </p>
 
 ---
 
