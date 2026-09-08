@@ -21,7 +21,9 @@
 ## About Me
 
 I'm **Jericho Selectra Vavian**, a frontend developer and beginner programmer interested in building modern and responsive websites.
+
 I enjoy turning ideas and designs into functional web interfaces. My main focus is frontend development using **HTML, CSS, JavaScript, and Vue.js**.
+
 I'm continuously improving my skills through projects, experimentation, and collaboration.
 
 ---
