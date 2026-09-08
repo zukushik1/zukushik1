@@ -1,78 +1,56 @@
-<!-- ==================== HEADER ==================== -->
-
-![header](https://capsule-render.vercel.app/api?type=venom\&color=0:111827,100\:E5E7EB\&height=220\&text=Jericho%20Selectra%20Vavian\&desc=Frontend%20Developer\&descAlignY=68\&fontColor=FFFFFF\&textBg=false\&animation=twinkling\&fontName=Poppins\&fontAlignY=42)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-111827?style=flat-square&logo=canva&logoColor=white" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=Jericho%20Selectra%20Vavian&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&desc=Frontend%20Developer&descSize=20&descAlign=50&descAlignY=65&color=7C3AED" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-0d1117?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-0d1117?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
 ---
 
 ## About Me
 
-I'm **Jericho Selectra Vavian**, a frontend developer and beginner programmer interested in creating modern and responsive websites.
+I'm **Jericho Selectra Vavian**, a frontend developer and beginner programmer focused on building modern and responsive web interfaces.
 
-I mainly work with **HTML, CSS, JavaScript, and Vue.js**, while also exploring UI/UX design using **Figma and Canva**.
+I enjoy turning designs into functional websites and experimenting with different frontend technologies. My current focus is **Vue.js**, responsive web development, and improving my understanding of programming fundamentals.
 
-I'm continuously learning through personal projects, experimentation, and collaboration.
-
----
-
-## What I Do
-
-* Frontend web development
-* Responsive website development
-* Vue.js application development
-* UI implementation from Figma designs
-* Dashboard interface development
-* Website navigation with Vue Router
-* Basic UI/UX design
-* Version control with Git and GitHub
+I also work with **Figma** and **Canva** when designing and preparing website interfaces.
 
 ---
 
-## Tech Stack
+## What I Work With
 
-### Frontend
+**Frontend Development**
 
-<p>
-  <img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+* HTML, CSS, JavaScript
+* Vue.js
+* Vue Router
+* Vite
+* Node.js
 
-### Programming
+**Programming**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+* Python
+* C++ — currently learning
 
-### Design
+**Design**
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+* Figma
+* Canva
 
-### Tools
+**Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+* Git
+* GitHub
+* VS Code
 
 ---
 
@@ -80,19 +58,19 @@ I'm continuously learning through personal projects, experimentation, and collab
 
 ### Jericho & Nesya — Bakery Website
 
-A bakery website project focused on a clean interface, responsive layout, and simple user experience.
+A bakery website project designed and developed with a focus on clean interfaces, responsive layouts, and a simple user experience.
 
-**My contribution:**
+**My focus:**
 
-* Website UI design
 * Frontend development
-* Responsive layout
-* Admin dashboard
+* UI implementation
+* Responsive web design
+* Vue.js development
 * Vue Router navigation
-* Component development
+* Admin dashboard interface
 * Git & GitHub workflow
 
-**Technologies:**
+**Tech Stack:**
 
 `HTML` `CSS` `JavaScript` `Vue.js` `Vue Router` `Vite` `Node.js`
 
@@ -100,40 +78,56 @@ A bakery website project focused on a clean interface, responsive layout, and si
 
 ## Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
+I'm currently improving my programming fundamentals through **C++**.
 
-Currently learning **C++** to improve programming fundamentals and problem-solving skills.
+I'm also continuing to explore better approaches to frontend development, responsive design, and UI implementation.
 
 ---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151&icon_color=7C3AED" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zukushik1&theme=default" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zukushik1&theme=default" alt="Languages by Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zukushik1&theme=default" alt="Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zukushik1&theme=default&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=7C3AED&text_color=374151" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=374151" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/zukushik1?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/zukushik1?style=social" alt="GitHub Stars" />
 </p>
 
 ---
 
-## Development Environment
+## Development Setup
 
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 ---
 
 ## Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/zukushik1">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -148,5 +142,5 @@ Currently learning **C++** to improve programming fundamentals and problem-solvi
 ---
 
 <p align="center">
-  <strong>Always learning. Always building.</strong>
+  <strong>Always learning, building, and improving.</strong>
 </p>
