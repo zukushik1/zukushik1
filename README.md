@@ -1,5 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:FFFFFF,100:D1D5DB&height=200&text=Jericho%20Selectra%20Vavian&desc=Frontend%20Developer&descAlignY=70&fontColor=000000&textBg=false&animation=twinkling&fontName=Poppins&fontAlignY=43)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=220&section=header&text=Jericho%20Selectra%20Vavian&fontSize=38&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer&descAlignY=58&descSize=20&descColor=000000" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-E5E7EB?style=flat-square&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML-E5E7EB?style=flat-square&logo=html5&logoColor=000000" />
+  <img src="https://img.shields.io/badge/CSS-E5E7EB?style=flat-square&logo=css&logoColor=000000" />
+  <img src="https://img.shields.io/badge/JavaScript-E5E7EB?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Vue.js-E5E7EB?style=flat-square&logo=vue.js&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Vite-E5E7EB?style=flat-square&logo=vite&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-E5E7EB?style=flat-square&logo=node.js&logoColor=000000" />
 </p>
 
 ---
