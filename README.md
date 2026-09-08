@@ -1,19 +1,19 @@
 <p align="center">
   <img
     style="width: 100%;"
-    src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=Jericho%20Selectra%20Vavian&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&desc=Frontend%20Developer&descSize=20&descAlign=50&descAlignY=65&color=6B7280"
+    src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&text=Jericho%20Selectra%20Vavian&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&desc=Frontend%20Developer&descSize=20&descAlign=50&descAlignY=65&color=6B7280"
   />
   <br />
   <br />
 
-  <img src="https://img.shields.io/badge/Frontend%20Developer-0d1117?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" />
 </p>
 ```
 
