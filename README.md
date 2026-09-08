@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:111827,100:E5E7EB&height=220&text=Jericho%20Selectra%20Vavian&desc=Frontend%20Developer&descAlignY=68&fontColor=FFFFFF&textBg=false&animation=twinkling&fontName=Poppins&fontAlignY=42)
+<!-- ==================== HEADER ==================== -->
+
+![header](https://capsule-render.vercel.app/api?type=venom\&color=0:111827,100\:E5E7EB\&height=220\&text=Jericho%20Selectra%20Vavian\&desc=Frontend%20Developer\&descAlignY=68\&fontColor=FFFFFF\&textBg=false\&animation=twinkling\&fontName=Poppins\&fontAlignY=42)
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=flat-square&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=FFFFFF" />
@@ -11,19 +14,32 @@
 
 ---
 
-## Profile
+## About Me
 
-I'm Jericho Selectra Vavian, a frontend developer and beginner programmer interested in building modern and responsive websites.
+I'm **Jericho Selectra Vavian**, a frontend developer and beginner programmer who enjoys turning ideas into functional and responsive websites.
 
-I mainly work with HTML, CSS, JavaScript, and Vue.js, while exploring UI/UX design through Figma and Canva.
+My main focus is frontend development using **HTML, CSS, JavaScript, and Vue.js**. I also explore UI/UX design with **Figma** and **Canva**.
 
-I'm continuously improving my programming skills and currently learning C++.
+I'm still learning and improving through personal projects, experimentation, and collaboration.
 
 ---
 
-## Core Skills
+## What I Do
 
-### Frontend Development
+* Build responsive websites
+* Develop frontend interfaces with Vue.js
+* Create clean and simple user interfaces
+* Implement website designs from Figma
+* Build dashboard interfaces
+* Work with Vue Router for page navigation
+* Manage projects using Git and GitHub
+* Continuously explore new technologies
+
+---
+
+## Tech Stack
+
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,nodejs" />
@@ -35,13 +51,13 @@ I'm continuously improving my programming skills and currently learning C++.
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### UI/UX Design
+### Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
-### Tools
+### Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -49,64 +65,68 @@ I'm continuously improving my programming skills and currently learning C++.
 
 ---
 
-## Tech Stack
-
-| Category          | Technologies                  |
-| ----------------- | ----------------------------- |
-| Frontend          | HTML, CSS, JavaScript, Vue.js |
-| Framework / Tools | Vue Router, Vite, Node.js     |
-| Programming       | Python                        |
-| Design            | Figma, Canva                  |
-| Development Tools | Git, GitHub, VS Code          |
-
----
-
 ## Featured Project
 
 ### Jericho & Nesya — Bakery Website
 
-A bakery website project focused on creating a clean, responsive, and user-friendly web experience.
+A bakery website project created with a focus on responsive design, clean interfaces, and a simple user experience.
 
-**My focus:**
+**My contribution:**
 
-* Frontend development
-* UI/UX implementation
-* Responsive web design
-* Vue.js development
-* Vue Router navigation
-* Admin dashboard interface
-* Git & GitHub workflow
+* Designed the website interface
+* Developed the frontend
+* Implemented responsive layouts
+* Built the admin dashboard interface
+* Added navigation using Vue Router
+* Connected frontend components and pages
+* Managed the project with Git and GitHub
 
-**Tech used:**
+**Technologies:**
 
 `HTML` `CSS` `JavaScript` `Vue.js` `Vue Router` `Vite` `Node.js`
 
 ---
 
-## GitHub Statistics
+## Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+Currently exploring **C++** to strengthen my programming fundamentals and problem-solving skills.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=000000&bg_color=FFFFFF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&hide_border=true&title_color=8B5CF6&text_color=000000&bg_color=FFFFFF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zukushik1&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151&icon_color=7C3AED" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukushik1&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111827&text_color=374151" height="170" />
 </p>
 
 ---
 
-## Currently Learning
+## Development Setup
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</p>
+I usually work with a simple development environment focused on frontend development.
 
-**C++ — Beginner**
+| Tool    | Purpose                    |
+| ------- | -------------------------- |
+| VS Code | Code Editor                |
+| Git     | Version Control            |
+| GitHub  | Repository & Collaboration |
+| Node.js | JavaScript Runtime         |
+| Vite    | Frontend Development       |
+| Figma   | UI/UX Design               |
+| Canva   | Visual Design              |
 
 ---
 
 ## Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/zukushik1">
-    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 </p>
 
@@ -115,11 +135,11 @@ A bakery website project focused on creating a clean, responsive, and user-frien
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zukushik1/zukushik1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/zukushik1/zukushik1/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
 <p align="center">
-  Always learning, building, and improving.
+  <strong>Always learning. Always building.</strong>
 </p>
