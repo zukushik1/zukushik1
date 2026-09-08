@@ -1,7 +1,7 @@
 <p align="center">
   <img
     style="width: 100%;"
-    src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=Jericho%20Selectra%20Vavian&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=-&desc=Frontend%20Developer&descSize=20&descAlign=50&descAlignY=65&color=0:2563EB,100:7C3AED"
+    src="https://capsule-render.vercel.app/api?type=venom&height=250&section=header&reversal=false&text=Jericho%20Selectra%20Vavian&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&stroke=111827&strokeWidth=2&desc=Frontend%20Developer&descSize=20&descAlign=50&descAlignY=65&color=0:2563EB,100:7C3AED"
   />
   <br />
   <br />
