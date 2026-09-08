@@ -6,14 +6,14 @@
   <br />
   <br />
 
-  <img src="https://img.shields.io/badge/Frontend%20Developer-111827?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-2563EB?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -58,34 +58,34 @@ I'm continuously improving my skills through projects, experimentation, and coll
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue%20Router-111827?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue%20Router-42B883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
 ### Programming
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ### Design
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-111827?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -115,7 +115,7 @@ A bakery website project focused on clean interfaces, responsive layouts, and a 
 ## Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
 Currently learning **C++** to strengthen programming fundamentals and improve problem-solving skills.
@@ -126,18 +126,18 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zukushik1&hide_border=true&background=FFFFFF&ring=111827&fire=111827&currStreakLabel=111827&sideLabels=111827&currStreakNum=111827&sideNums=111827&dates=6B7280"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zukushik1&hide_border=true&background=FFFFFF&ring=2563EB&fire=7C3AED&currStreakLabel=2563EB&sideLabels=2563EB&currStreakNum=2563EB&sideNums=2563EB&dates=6B7280"
     alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/followers/zukushik1?style=flat-square&label=Followers&color=111827&labelColor=111827"
+    src="https://img.shields.io/github/followers/zukushik1?style=flat-square&label=Followers&color=2563EB&labelColor=2563EB"
     alt="GitHub Followers"
   />
   <img
-    src="https://img.shields.io/github/stars/zukushik1?style=flat-square&label=Stars&color=111827&labelColor=111827"
+    src="https://img.shields.io/github/stars/zukushik1?style=flat-square&label=Stars&color=7C3AED&labelColor=7C3AED"
     alt="GitHub Stars"
   />
 </p>
@@ -147,11 +147,11 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 ## Development Environment
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-111827?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 ---
@@ -160,19 +160,19 @@ Currently learning **C++** to strengthen programming fundamentals and improve pr
 
 <p align="center">
   <a href="https://github.com/zukushik1">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.tiktok.com/@shikiaja_">
-    <img src="https://img.shields.io/badge/TikTok-111827?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/jrchslvvn/">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
   <a href="https://www.youtube.com/@zukushiki_">
-    <img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
